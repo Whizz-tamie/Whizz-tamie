@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Whizz-tamie
 - 👀 I’m interested in the research and development of Artificial Intelligence systems.
 - 🌱 I’m currently learning DS, ML, NLP, CV, and DL.
-- 💞️ I’m looking to collaborate on AI projects.
+- 💞️ I’m looking to collaborate on AI projects. - Watch this space!
 - 📫 How to reach me: tamarakonke@gmail.com
 
 <!---
