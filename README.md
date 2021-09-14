@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whizz-tamie
+- 🌱 I'm constantly learning and growing Computer Scientist.
 - 👀 I’m interested in the research and development of Artificial Intelligence systems.
-- 🌱 I’m currently learning Deep Learnig, Computer Vision and Natural Language Processing.
 - 💞️ I’m looking to collaborate on AI projects. - Watch this space!
 - 📫 How to reach me: tamarakonke@gmail.com
 
